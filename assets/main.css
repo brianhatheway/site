@@ -1,0 +1,27 @@
+html,
+body {
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 5px;
+  margin: 0;
+  text-align: center;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.logo {
+  width: 25%;
+}
+.qr-code img {
+  display: inline !important
+}
+.button {
+  background: black;
+  border-radius: 4px;
+  color: white;
+  display: block;
+  padding: .5em 1em;
+  margin: .5em 1em;
+}
